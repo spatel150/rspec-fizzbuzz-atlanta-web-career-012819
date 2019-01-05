@@ -7,11 +7,9 @@ def fizzbuzz(int)
     return "Buzz"
   else 
    return nil;
-   
+ end
   if int % 3 == 0 && int % 5 ==  0
     return "FizzBuzz"
- 
-  end
 end
 
 puts(fizzbuzz(15))
