@@ -9,8 +9,7 @@ def fizzbuzz(int)
     return "Buzz"
   else 
    return nil;
- 
-  if
+ end
 end
 
 puts(fizzbuzz(15))
